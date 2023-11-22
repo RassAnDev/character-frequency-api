@@ -1,6 +1,7 @@
 # Character Frequency Api
 
 ### Статусы Тестов, Линтера и Поддерживаемости:
+[![Java CI](https://github.com/RassAnDev/character-frequency-api/actions/workflows/main.yml/badge.svg)](https://github.com/RassAnDev/character-frequency-api/actions/workflows/main.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e9d5f8cf1e8d80decdb4/maintainability)](https://codeclimate.com/github/RassAnDev/character-frequency-api/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/e9d5f8cf1e8d80decdb4/test_coverage)](https://codeclimate.com/github/RassAnDev/character-frequency-api/test_coverage)
 
